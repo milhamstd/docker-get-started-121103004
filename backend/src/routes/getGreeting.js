@@ -1,7 +1,7 @@
 const GREETING = [
     "Whalecome!",
     "All hands on the deck!",
-    "Charting the course ahead!"];
+    "Charting the course ahead!!"];
 
 module.exports = async (req, res) => {
     res.send({
