@@ -36,6 +36,7 @@ export function AddItemForm({ onNewItem }) {
                     type="text"
                     placeholder="What do you need to do?"
                     aria-label="New item"
+                    
                 />
                 <Button
                     type="submit"
